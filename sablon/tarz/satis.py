@@ -91,7 +91,7 @@ def k5():
     return doc(f"""{head(4, f"Kitabını<br>{R}bas.</span>", "Her sayfayı onayla,<br>kitabın elinde olsun.")}
 <div style='position:absolute;top:740px;left:0;right:0;display:flex;justify-content:center;align-items:flex-end;height:345px'>{stack}</div>
 <div class=shelf style='top:1082px'></div>
-<div class=cta style='bottom:120px'>DM at · Kitabını birlikte başlatalım</div>
+<div class=cta style='bottom:120px'>eyayinevi.com · Hikâyeni yükle</div>
 {foot("Hikâyen senin, kitabın senin")}""")
 
 
