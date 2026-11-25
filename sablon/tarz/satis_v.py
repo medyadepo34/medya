@@ -21,6 +21,12 @@ V = {
               ["tebesir-tahtasi", "takim-ruhu", "mizah-karikatur"], ["tebesir-tahtasi", "mizah-karikatur", "takim-ruhu", "eskiz-defteri", "animasyon-filmi", "manga-esintisi"], "tebesir-tahtasi", "tebesir-tahtasi"),
  "fantastik": ("Kurduğun dünya,<br>haritan, kahramanların.", "Dünyam", "Kayıp Krallık",
                ["mitoloji", "karanlik-fantastik", "ejderha-diyari"], ["karanlik-fantastik", "mitoloji", "neon-bilimkurgu", "ejderha-diyari", "gercekustu-genc", "distopya"], "mitoloji", "mitoloji"),
+ "polisiye": ("Kurduğun cinayet, ipuçların,<br>dedektifin ve sırrın.", "Dosya No: 7", "Son İpucu",
+              ["noir-roman", "gerilim", "grafik-roman"], ["noir-roman", "gerilim", "genc-dedektif", "grafik-roman", "gotik", "kara-mizah"], "noir-roman", "noir-roman"),
+ "bilimkurgu": ("Kurduğun gelecek,<br>gezegenlerin, robotların.", "Yıl 2187", "Son Koloni",
+                ["neon-bilimkurgu", "uzay-akademisi", "distopya"], ["neon-bilimkurgu", "uzay-akademisi", "distopya", "robot-atolyesi", "piksel-dunyasi", "gokyuzu-manzaralari"], "neon-bilimkurgu", "neon-bilimkurgu"),
+ "gezi": ("Gezdiğin yerler, notların,<br>yol hikâyelerin.", "Yol Defterim", "Kapadokya",
+          ["seyahat-suluboya", "yol-hikayesi", "vintage-afis"], ["seyahat-suluboya", "yol-hikayesi", "vintage-afis", "botanik-atlas", "kentsel-eskiz", "gokyuzu-manzaralari"], "seyahat-suluboya", "seyahat-suluboya"),
 }
 
 
