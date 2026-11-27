@@ -58,3 +58,4 @@
 # Kullanılmamış tarz kalmadı (80/80).
 
 2026-11-25 haftalik: yeni temalar polisiye, bilimkurgu, gezi. Slider/Reels 27 Kas-3 Ara: 27 polisiye/fantastik, 28 gezi/roman, 29 bilimkurgu/cocuk, 30 siir/polisiye, 1 cocuk/gezi, 2 roman/bilimkurgu, 3 ani/ogretmen. LinkedIn 30 gezi-ani, 2 cocuk.
+2026-11-27 e-kitap: ekitap.py set A (lacivert, cihaz) -> 1 Ara 13:30; set B (krem/kirmizi) -> 4 Ara 13:30. Haftalik planda Sali+Cuma 13:30 e-kitap.
